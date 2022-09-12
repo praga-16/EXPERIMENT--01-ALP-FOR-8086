@@ -1,8 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086:
 ~~~
-Name : Ragul Vk
-Register Number : 212221240043
-Date of experiment : 09/09/2022
+Name : pragatheesvaran AB
+Register Number : 212221240039
 ~~~
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
